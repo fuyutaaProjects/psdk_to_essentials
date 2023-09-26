@@ -1,0 +1,1690 @@
+
+#-------------------------------
+[CHLOROPAS]
+Name = Chloropas
+Types = GRASS
+BaseStats = 60,55,65,70,90,70
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = CHLOROPHYLL
+#-------------------------------
+[CHLOROQUEEN]
+Name = Chloroqueen
+Types = GRASS, FAIRY
+BaseStats = 85,70,83,72,117,103
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 236
+EVs = SPECIAL_ATTACK,2,SPECIAL_DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = CHLOROPHYLL
+#-------------------------------
+[PYROWATT]
+Name = Pyrowatt
+Types = FIRE
+BaseStats = 40,50,50,70,60,40
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 62
+EVs = SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = BLAZE
+HiddenAbilities = FLASHFIRE
+#-------------------------------
+[CHLOROFYTE]
+Name = Chlorofyte
+Types = GRASS
+BaseStats = 45,35,50,55,65,50
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 64
+EVs = SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = CHLOROPHYLL
+#-------------------------------
+[SONORETTE]
+Name = Sonorette
+Types = FIRE
+BaseStats = 60,65,65,85,80,55
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = SPEED,1,SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = BLAZE
+HiddenAbilities = FLASHFIRE
+#-------------------------------
+[AMPLAM]
+Name = Amplam
+Types = FIRE, ELECTRIC
+BaseStats = 88,82,78,95,122,65
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 240
+EVs = SPECIAL_ATTACK,3
+CatchRate = 45
+Happiness = 70
+Abilities = BLAZE
+HiddenAbilities = FLASHFIRE
+#-------------------------------
+[HYDROZAURE]
+Name = Hydrozaure
+Types = WATER
+BaseStats = 55,65,55,60,35,40
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 63
+EVs = ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = TORRENT
+HiddenAbilities = REGENERATOR
+#-------------------------------
+[ROYAUZAURE]
+Name = Royauzaure
+Types = WATER
+BaseStats = 75,90,70,85,45,45
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = ATTACK,1,SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = TORRENT
+HiddenAbilities = REGENERATOR
+#-------------------------------
+[CORAUZAURE]
+Name = Corauzaure
+Types = WATER, GROUND
+BaseStats = 111,117,85,114,50,53
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 239
+EVs = HP,1,ATTACK,1,SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = TORRENT
+HiddenAbilities = REGENERATOR
+#-------------------------------
+[SOURISSONO]
+Name = Sourissono
+Types = NORMAL
+BaseStats = 38,36,38,74,48,48
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 61
+EVs = SPEED,1
+CatchRate = 190
+Happiness = 70
+Abilities = SOUNDPROOF
+HiddenAbilities = INTIMIDATE
+#-------------------------------
+[RELAJA]
+Name = Relaja
+Types = DARK, GRASS
+BaseStats = 42,70,42,60,43,42
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 62
+EVs = ATTACK,1
+CatchRate = 120
+Happiness = 70
+Abilities = EFFECTSPORE
+HiddenAbilities = TRUANT
+#-------------------------------
+[DOZERO]
+Name = Dozero
+Types = DARK, GRASS
+BaseStats = 57,90,57,80,63,57
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 123
+EVs = ATTACK,1,SPEED,1
+CatchRate = 60
+Happiness = 70
+Abilities = EFFECTSPORE
+HiddenAbilities = GRASSYSURGE
+#-------------------------------
+[SHINOLLEN]
+Name = Shinollen
+Types = DARK, GRASS
+BaseStats = 67,140,67,120,83,67
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 212
+EVs = ATTACK,2,SPEED,1
+CatchRate = 60
+Happiness = 70
+Abilities = EFFECTSPORE
+HiddenAbilities = GRASSYSURGE
+#-------------------------------
+[GRILLUR]
+Name = Grillur
+Types = BUG
+BaseStats = 20,59,29,89,32,34
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = SWARM
+HiddenAbilities = RUNAWAY
+#-------------------------------
+[CRIQUAGE]
+Name = Criquage
+Types = BUG
+BaseStats = 40,99,59,104,67,69
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 72
+EVs = ATTACK,1,SPEED,2
+CatchRate = 120
+Happiness = 70
+Abilities = SWARM
+HiddenAbilities = RUNAWAY
+#-------------------------------
+[COLAERO]
+Name = Colaero
+Types = BUG, FLYING
+BaseStats = 32,58,32,78,50,52
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 72
+EVs = SPEED,1
+CatchRate = 200
+Happiness = 70
+Abilities = HUSTLE,SWARM
+#-------------------------------
+[VECTIME]
+Name = Vectime
+Types = FLYING, NORMAL
+BaseStats = 40,45,43,53,35,50
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 50
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = DEFEATIST
+#-------------------------------
+[MAFIOZO]
+Name = Mafiozo
+Types = FLYING, NORMAL
+BaseStats = 70,115,54,113,60,70
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 122
+EVs = ATTACK,2,SPEED,1
+CatchRate = 120
+Happiness = 70
+Abilities = GUTS
+HiddenAbilities = ANGERPOINT
+#-------------------------------
+[SOUROT]
+Name = Sourot
+Types = DARK, POISON
+BaseStats = 36,63,47,71,61,49
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 51
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = RUNAWAY,POISONPOINT
+HiddenAbilities = HUSTLE
+#-------------------------------
+[MAGMOUETTE]
+Name = Magmouette
+Types = FIRE, FLYING
+BaseStats = 52,44,52,62,61,54
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 52
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = FLAMEBODY,MAGMAARMOR
+#-------------------------------
+[LAVOSKOUR]
+Name = Lavoskour
+Types = FIRE, FLYING
+BaseStats = 72,54,78,72,81,88
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 155
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 90
+Happiness = 70
+Abilities = FLAMEBODY,MAGMAARMOR
+#-------------------------------
+[CADAVLAQUE]
+Name = Cadavlaque
+Types = FIRE, FLYING
+BaseStats = 82,64,98,82,111,118
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 58
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 36
+Happiness = 70
+Abilities = FLAMEBODY
+HiddenAbilities = DROUGHT
+#-------------------------------
+[TROMAL]
+Name = Tromal
+Types = POISON, FAIRY
+BaseStats = 200,50,50,60,50,50
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 157
+EVs = HP,3
+CatchRate = 60
+Happiness = 70
+Abilities = PRANKSTER
+HiddenAbilities = SHADOWTAG
+#-------------------------------
+[AMPRISE]
+Name = Amprise
+Types = ELECTRIC
+BaseStats = 48,43,46,70,83,46
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 112
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = STATIC
+HiddenAbilities = LIGHTNINGROD
+#-------------------------------
+[EPISON]
+Name = Epison
+Types = POISON, PSYCHIC
+BaseStats = 58,42,62,58,62,66
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 128
+EVs = HP,2,SPECIAL_DEFENSE,1
+CatchRate = 120
+Happiness = 70
+Abilities = POISONPOINT,RIVALRY
+HiddenAbilities = HUSTLE
+#-------------------------------
+[TENTAJ]
+Name = Tentaj
+Types = POISON, NORMAL
+BaseStats = 60,40,60,60,50,60
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 72
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 120
+Happiness = 70
+Abilities = LIQUIDOOZE,SUCTIONCUPS
+#-------------------------------
+[FRAMBOALA]
+Name = Framboala
+Types = FAIRY
+BaseStats = 43,28,48,55,64,64
+GenderRatio = Female75Percent
+GrowthRate = Fast
+BaseExp = 113
+EVs = SPECIAL_ATTACK,1
+CatchRate = 150
+Happiness = 140
+Abilities = CUTECHARM,MAGICGUARD
+HiddenAbilities = FRIENDGUARD
+#-------------------------------
+[MACAROALA]
+Name = Macaroala
+Types = FAIRY
+BaseStats = 103,48,78,66,94,114
+GenderRatio = Female75Percent
+GrowthRate = Fast
+BaseExp = 217
+EVs = HP,1,SPECIAL_DEFENSE,2
+CatchRate = 25
+Happiness = 140
+Abilities = CUTECHARM,MAGICGUARD
+HiddenAbilities = UNAWARE
+#-------------------------------
+[DISSIBIER]
+Name = Dissibier
+Types = FIRE
+BaseStats = 46,46,36,66,66,46
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 60
+EVs = SPEED,1
+CatchRate = 190
+Happiness = 70
+Abilities = FLAMEBODY,WHITESMOKE
+HiddenAbilities = DROUGHT
+#-------------------------------
+[GUETAPANT]
+Name = Guetapant
+Types = FLYING, DARK
+BaseStats = 70,70,70,90,90,90
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 49
+EVs = SPEED,1,SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 255
+Happiness = 70
+Abilities = INNERFOCUS
+HiddenAbilities = INFILTRATOR
+#-------------------------------
+[QUALCOX]
+Name = Qualcox
+Types = POISON, FIGHTING
+BaseStats = 61,101,71,61,32,54
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 64
+EVs = ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = RUNAWAY
+#-------------------------------
+[BALTOX]
+Name = Baltox
+Types = POISON, FIGHTING
+BaseStats = 91,131,101,61,52,84
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 138
+EVs = ATTACK,2,DEFENSE,1
+CatchRate = 120
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = STENCH
+#-------------------------------
+[ROBAROME]
+Name = Robarome
+Types = GRASS, POISON
+BaseStats = 66,54,140,36,76,143
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 221
+EVs = DEFENSE,1,SPECIAL_DEFENSE,2
+CatchRate = 45
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = EFFECTSPORE
+#-------------------------------
+[VILEA]
+Name = Vilea
+Types = PSYCHIC, GRASS
+BaseStats = 55,15,35,70,80,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 57
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = EFFECTSPORE,DRYSKIN
+HiddenAbilities = DAMP
+#-------------------------------
+[GORGORM]
+Name = Gorgorm
+Types = GROUND, STEEL
+BaseStats = 50,60,90,10,30,70
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 53
+EVs = DEFENSE,1
+CatchRate = 255
+Happiness = 70
+Abilities = SANDVEIL,ARENATRAP
+HiddenAbilities = SANDFORCE
+#-------------------------------
+[DEMOLIEN]
+Name = Demolien
+Types = GROUND, STEEL
+BaseStats = 70,120,90,110,50,70
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 149
+EVs = ATTACK,2,SPEED,1
+CatchRate = 50
+Happiness = 70
+Abilities = SANDVEIL,ARENATRAP
+HiddenAbilities = SANDFORCE
+#-------------------------------
+[PLUMOURS]
+Name = Plumours
+Types = ROCK, FLYING
+BaseStats = 100,102,122,30,50,82
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 154
+EVs = ATTACK,1,DEFENSE,2
+CatchRate = 90
+Happiness = 70
+Abilities = LIMBER,TECHNICIAN
+HiddenAbilities = UNNERVE
+#-------------------------------
+[BAGICIEN]
+Name = Bagicien
+Types = PSYCHIC, ELECTRIC
+BaseStats = 48,32,45,106,108,70
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 100
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = PSYCHICSURGE,FOREWARN
+HiddenAbilities = ELECTRICSURGE
+#-------------------------------
+[YGGDRACIEN]
+Name = Yggdracien
+Types = PSYCHIC, ELECTRIC
+BaseStats = 68,42,55,136,138,100
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 175
+EVs = SPEED,1,SPECIAL_ATTACK,2
+CatchRate = 75
+Happiness = 70
+Abilities = DAMP,CLOUDNINE
+HiddenAbilities = SWIFTSWIM
+#-------------------------------
+[PANDOUX]
+Name = Pandoux
+Types = FIRE
+BaseStats = 50,70,40,70,70,60
+GenderRatio = Female25Percent
+GrowthRate = Slow
+BaseExp = 70
+EVs = ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = FLASHFIRE,INTIMIDATE
+HiddenAbilities = JUSTIFIED
+#-------------------------------
+[PLANCTO]
+Name = Plancto
+Types = WATER, GHOST
+BaseStats = 53,48,48,64,53,59
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 60
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = CURSEDBODY
+HiddenAbilities = SWIFTSWIM
+#-------------------------------
+[ERRANCTON]
+Name = Errancton
+Types = WATER, GHOST
+BaseStats = 63,88,58,84,83,99
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 175
+EVs = ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 120
+Happiness = 70
+Abilities = CURSEDBODY
+HiddenAbilities = SWIFTSWIM
+#-------------------------------
+[PEION]
+Name = Peion
+Types = PSYCHIC
+BaseStats = 30,40,50,60,70,60
+GenderRatio = Female25Percent
+GrowthRate = Parabolic
+BaseExp = 62
+EVs = SPECIAL_ATTACK,1
+CatchRate = 200
+Happiness = 70
+Abilities = SYNCHRONIZE,TELEPATHY
+HiddenAbilities = MAGICGUARD
+#-------------------------------
+[FOODELIK]
+Name = Foodelik
+Types = PSYCHIC
+BaseStats = 40,50,60,100,100,80
+GenderRatio = Female25Percent
+GrowthRate = Parabolic
+BaseExp = 140
+EVs = SPECIAL_ATTACK,2
+CatchRate = 100
+Happiness = 70
+Abilities = SYNCHRONIZE,INNERFOCUS
+HiddenAbilities = MAGICGUARD
+#-------------------------------
+[REJACID]
+Name = Rejacid
+Types = PSYCHIC
+BaseStats = 50,70,100,80,120,120
+GenderRatio = Female25Percent
+GrowthRate = Parabolic
+BaseExp = 225
+EVs = SPECIAL_ATTACK,3
+CatchRate = 50
+Happiness = 70
+Abilities = SYNCHRONIZE,INNERFOCUS
+HiddenAbilities = MAGICGUARD
+#-------------------------------
+[CARCAPIK]
+Name = Carcapik
+Types = FIGHTING
+BaseStats = 60,75,65,55,45,50
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 61
+EVs = ATTACK,1
+CatchRate = 180
+Happiness = 70
+Abilities = GUTS,BATTLEARMOR
+HiddenAbilities = NOGUARD
+#-------------------------------
+[POISSCARNAJ]
+Name = Poisscarnaj
+Types = FIGHTING, WATER
+BaseStats = 90,135,85,75,65,70
+GenderRatio = Female25Percent
+GrowthRate = Parabolic
+BaseExp = 212
+EVs = HP,1,ATTACK,2
+CatchRate = 90
+Happiness = 70
+Abilities = GUTS,BATTLEARMOR
+HiddenAbilities = NOGUARD
+#-------------------------------
+[GIGACHRYS]
+Name = Gigachrys
+Types = BUG, FIGHTING
+BaseStats = 104,124,124,44,44,104
+GenderRatio = Female25Percent
+GrowthRate = Parabolic
+BaseExp = 227
+EVs = ATTACK,1,DEFENSE,2
+CatchRate = 45
+Happiness = 70
+Abilities = GUTS,NOGUARD
+HiddenAbilities = STEADFAST
+#-------------------------------
+[FRAINY]
+Name = Frainy
+Types = GRASS
+BaseStats = 43,34,44,61,64,64
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 60
+EVs = SPECIAL_ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = GLUTTONY
+#-------------------------------
+[SCARPIN]
+Name = Scarpin
+Types = GRASS, FIGHTING
+BaseStats = 38,76,38,86,26,66
+GenderRatio = Female50Percent
+GrowthRate = Fluctuating
+BaseExp = 59
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = EFFECTSPORE,POISONHEAL
+HiddenAbilities = QUICKFEET
+#-------------------------------
+[YAMETE]
+Name = Yamete
+Types = WATER, DARK
+BaseStats = 37,69,47,69,69,47
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 67
+EVs = ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = SHADOWTAG,RAINDISH
+HiddenAbilities = DRIZZLE
+#-------------------------------
+[RANNAZ]
+Name = Rannaz
+Types = ROCK, PSYCHIC
+BaseStats = 30,53,50,33,73,71
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 60
+EVs = SPECIAL_ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = STURDY,ROCKHEAD
+HiddenAbilities = SANDVEIL
+#-------------------------------
+[GENNAZ]
+Name = Gennaz
+Types = ROCK, PSYCHIC
+BaseStats = 50,73,60,53,93,91
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 137
+EVs = SPECIAL_ATTACK,2
+CatchRate = 120
+Happiness = 70
+Abilities = STURDY,ROCKHEAD
+HiddenAbilities = SANDVEIL
+#-------------------------------
+[RUNHARK]
+Name = Runhark
+Types = ROCK, PSYCHIC
+BaseStats = 80,103,80,83,123,131
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 223
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 45
+Happiness = 70
+Abilities = STURDY,ROCKHEAD
+HiddenAbilities = SANDVEIL
+#-------------------------------
+[DETOCEPS]
+Name = Detoceps
+Types = FIRE, FIGHTING
+BaseStats = 53,62,58,52,63,38
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 82
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = FLASHFIRE,RUNAWAY
+HiddenAbilities = FLAMEBODY
+#-------------------------------
+[ALVOUILLE]
+Name = Alvouille
+Types = WATER, NORMAL
+BaseStats = 75,75,60,60,30,30
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 63
+EVs = HP,1
+CatchRate = 190
+Happiness = 70
+Abilities = OBLIVIOUS
+HiddenAbilities = WATERABSORB
+#-------------------------------
+[AIMANTPEINE]
+Name = Aimantpeine
+Types = ELECTRIC, GHOST
+BaseStats = 42,36,46,43,73,73
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 65
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = MAGNETPULL,STURDY
+HiddenAbilities = ANALYTIC
+#-------------------------------
+[ECHANCARBON]
+Name = Echancarbon
+Types = POISON
+BaseStats = 60,20,80,10,60,100
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 65
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = STENCH,POISONPOINT
+#-------------------------------
+[FIOLOXIK]
+Name = Fioloxik
+Types = POISON
+BaseStats = 100,40,100,20,100,140
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 175
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 75
+Happiness = 70
+Abilities = STENCH,POISONPOINT
+#-------------------------------
+[VERVU]
+Name = Vervu
+Types = WATER, ROCK
+BaseStats = 55,45,85,25,30,90
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 61
+EVs = DEFENSE,1,SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = STURDY,ANTICIPATION
+#-------------------------------
+[POSETTE]
+Name = Posette
+Types = GHOST, ROCK
+BaseStats = 31,41,51,51,61,71
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 62
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = LEVITATE
+#-------------------------------
+[CRABOUEE]
+Name = Crabouee
+Types = WATER
+BaseStats = 70,46,74,48,56,46
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = DEFENSE,1
+CatchRate = 225
+Happiness = 70
+Abilities = RAINDISH,CLEARBODY
+HiddenAbilities = WATERABSORB
+#-------------------------------
+[SLITIK]
+Name = Slitik
+Types = ELECTRIC, WATER
+BaseStats = 50,38,63,33,79,74
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 66
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = STATIC,SOUNDPROOF
+HiddenAbilities = AFTERMATH
+#-------------------------------
+[BLOCHARJ]
+Name = Blocharj
+Types = ELECTRIC, WATER
+BaseStats = 80,60,84,52,114,106
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 172
+EVs = SPECIAL_ATTACK,2,SPECIAL_DEFENSE,1
+CatchRate = 60
+Happiness = 70
+Abilities = STATIC,SOUNDPROOF
+HiddenAbilities = AFTERMATH
+#-------------------------------
+[BOURGEA]
+Name = Bourgea
+Types = GRASS
+BaseStats = 48,48,48,48,48,48
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 65
+EVs = ATTACK,1
+CatchRate = 90
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = HARVEST
+#-------------------------------
+[DENTION]
+Name = Dention
+Types = GRASS
+BaseStats = 68,98,78,78,78,78
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 186
+EVs = ATTACK,2
+CatchRate = 45
+Happiness = 70
+Abilities = CHLOROPHYLL
+HiddenAbilities = HARVEST
+#-------------------------------
+[TREPASSEUR]
+Name = Trepasseur
+Types = STEEL, GHOST
+BaseStats = 70,72,30,72,90,30
+GenderRatio = AlwaysMale
+GrowthRate = Medium
+BaseExp = 159
+EVs = ATTACK,2,SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = LIMBER,RECKLESS
+HiddenAbilities = UNBURDEN
+#-------------------------------
+[MAQUARTER]
+Name = Maquarter
+Types = STEEL, GHOST
+BaseStats = 120,92,45,92,120,45
+GenderRatio = AlwaysMale
+GrowthRate = Medium
+BaseExp = 159
+EVs = HP,2,DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = KEENEYE,IRONFIST
+HiddenAbilities = INNERFOCUS
+#-------------------------------
+[BANIX]
+Name = Banix
+Types = ELECTRIC, FLYING
+BaseStats = 60,70,50,113,87,70
+GenderRatio = Female25Percent
+GrowthRate = Medium
+BaseExp = 172
+EVs = SPEED,2
+CatchRate = 45
+Happiness = 70
+Abilities = STATIC
+HiddenAbilities = VITALSPIRIT
+#-------------------------------
+[BOURI]
+Name = Bouri
+Types = POISON, NORMAL
+BaseStats = 56,57,51,44,42,59
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 68
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = LEVITATE
+#-------------------------------
+[MAUVAINE]
+Name = Mauvaine
+Types = GRASS, DARK
+BaseStats = 43,50,61,51,74,77
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 87
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = CHLOROPHYLL,LEAFGUARD
+HiddenAbilities = REGENERATOR
+#-------------------------------
+[SKEULO]
+Name = Skeulo
+Types = WATER, ICE
+BaseStats = 54,70,69,63,45,44
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 70
+EVs = ATTACK,1
+CatchRate = 225
+Happiness = 70
+Abilities = MUMMY,ICEBODY
+#-------------------------------
+[COCORTUE]
+Name = Cocortue
+Types = WATER
+BaseStats = 112,50,83,26,40,54
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 68
+EVs = HP,2
+CatchRate = 225
+Happiness = 70
+Abilities = SHELLARMOR,STORMDRAIN
+HiddenAbilities = WATERABSORB
+#-------------------------------
+[TORTAIL]
+Name = Tortail
+Types = WATER
+BaseStats = 142,80,103,36,70,74
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 182
+EVs = HP,2,DEFENSE,1,SPEED,2
+CatchRate = 60
+Happiness = 70
+Abilities = SHELLARMOR,STORMDRAIN
+HiddenAbilities = WATERABSORB
+#-------------------------------
+[NOSFOLTAJ]
+Name = Nosfoltaj
+Types = ELECTRIC, DARK
+BaseStats = 50,105,50,120,105,50
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 100
+EVs = SPEED,3
+CatchRate = 45
+Happiness = 70
+Abilities = SWARM,TECHNICIAN
+HiddenAbilities = STEADFAST
+#-------------------------------
+[CORAPRENTI]
+Name = Coraprenti
+Types = WATER, PSYCHIC
+BaseStats = 48,53,46,74,53,52
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 40
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = FOREWARN,SERENEGRACE
+HiddenAbilities = MAGICGUARD
+#-------------------------------
+[VOICHOU]
+Name = Voichou
+Types = DRAGON, GROUND
+BaseStats = 42,70,74,53,44,42
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 60
+EVs = DEFENSE,1
+CatchRate = 45
+Happiness = 35
+Abilities = SHEDSKIN
+HiddenAbilities = MARVELSCALE
+#-------------------------------
+[RECAILLE]
+Name = Recaille
+Types = DRAGON, GROUND
+BaseStats = 63,103,90,73,56,49
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 147
+EVs = ATTACK,2
+CatchRate = 45
+Happiness = 35
+Abilities = SHEDSKIN
+HiddenAbilities = MARVELSCALE
+#-------------------------------
+[ZANITUS]
+Name = Zanitus
+Types = GRASS
+BaseStats = 53,61,61,53,61,61
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 64
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = LEAFGUARD
+#-------------------------------
+[SOLAVIDE]
+Name = Solavide
+Types = GRASS, FIRE
+BaseStats = 113,71,71,83,121,121
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = HP,1,SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = LEAFGUARD
+#-------------------------------
+[LUNADAE]
+Name = Lunadae
+Types = GRASS, POISON
+BaseStats = 83,121,121,113,71,71
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 236
+EVs = ATTACK,1,DEFENSE,1,SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = LEAFGUARD
+#-------------------------------
+[BRULOTIN]
+Name = Brulotin
+Types = FIRE, DARK
+BaseStats = 42,63,37,69,73,46
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 62
+EVs = SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = PICKUP
+HiddenAbilities = PRANKSTER
+#-------------------------------
+[DIABLURE]
+Name = Diablure
+Types = FIRE, DARK
+BaseStats = 57,90,47,101,99,56
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = ATTACK,1,SPEED,1
+CatchRate = 45
+Happiness = 70
+Abilities = BLAZE
+HiddenAbilities = FLASHFIRE
+#-------------------------------
+[LINFE]
+Name = Linfe
+Types = GRASS, FAIRY
+BaseStats = 44,44,44,66,66,66
+GenderRatio = Female50Percent
+GrowthRate = Fast
+BaseExp = 53
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = CUTECHARM,NATURALCURE
+#-------------------------------
+[GNOMEUILLE]
+Name = Gnomeuille
+Types = GRASS, FAIRY
+BaseStats = 66,66,66,99,99,99
+GenderRatio = Female50Percent
+GrowthRate = Fast
+BaseExp = 137
+EVs = SPEED,1,SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 90
+Happiness = 70
+Abilities = SWARM,EARLYBIRD
+HiddenAbilities = IRONFIST
+#-------------------------------
+[BUISORNA]
+Name = Buisorna
+Types = GRASS
+BaseStats = 30,34,47,61,71,53
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 63
+EVs = SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = BULLETPROOF
+#-------------------------------
+[CORNERA]
+Name = Cornera
+Types = GRASS
+BaseStats = 60,54,61,77,97,68
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 142
+EVs = SPECIAL_ATTACK,2
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = BULLETPROOF
+#-------------------------------
+[CORA]
+Name = Cora
+Types = GRASS, FIGHTING
+BaseStats = 80,67,72,101,139,82
+GenderRatio = FemaleOneEighth
+GrowthRate = Parabolic
+BaseExp = 239
+EVs = SPECIAL_ATTACK,3
+CatchRate = 45
+Happiness = 70
+Abilities = OVERGROW
+HiddenAbilities = BULLETPROOF
+#-------------------------------
+[SCARABEBE]
+Name = Scarabebe
+Types = BUG
+BaseStats = 25,30,45,35,30,35
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 56
+EVs = DEFENSE,1
+CatchRate = 255
+Happiness = 70
+Abilities = STURDY,WEAKARMOR
+HiddenAbilities = SANDFORCE
+#-------------------------------
+[COLEOPIERRE]
+Name = Coleopierre
+Types = BUG, ROCK
+BaseStats = 50,65,95,20,65,60
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 137
+EVs = DEFENSE,2
+CatchRate = 120
+Happiness = 70
+Abilities = STURDY,WEAKARMOR
+HiddenAbilities = SANDFORCE
+#-------------------------------
+[SATOON]
+Name = Satoon
+Types = FAIRY, GHOST
+BaseStats = 32,60,48,60,60,70
+GenderRatio = Female75Percent
+GrowthRate = Parabolic
+BaseExp = 58
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 200
+Happiness = 70
+Abilities = FRISK,COMPETITIVE
+HiddenAbilities = SHADOWTAG
+#-------------------------------
+[DRYATYR]
+Name = Dryatyr
+Types = FAIRY, GHOST
+BaseStats = 87,88,88,65,123,120
+GenderRatio = Female75Percent
+GrowthRate = Parabolic
+BaseExp = 221
+EVs = SPECIAL_ATTACK,2,SPECIAL_DEFENSE,1
+CatchRate = 50
+Happiness = 70
+Abilities = FRISK,COMPETITIVE
+HiddenAbilities = SHADOWTAG
+#-------------------------------
+[PAKAP]
+Name = Pakap
+Types = FIGHTING, FAIRY
+BaseStats = 52,77,51,67,39,54
+GenderRatio = FemaleOneEighth
+GrowthRate = Fast
+BaseExp = 49
+EVs = ATTACK,1
+CatchRate = 190
+Happiness = 70
+Abilities = SERENEGRACE,HUSTLE
+HiddenAbilities = SUPERLUCK
+#-------------------------------
+[RAPOREUR]
+Name = Raporeur
+Types = PSYCHIC, DARK
+BaseStats = 56,56,56,56,56,56
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 64
+EVs = HP,1
+CatchRate = 190
+Happiness = 70
+Abilities = SYNCHRONIZE,EARLYBIRD
+HiddenAbilities = MAGICBOUNCE
+#-------------------------------
+[COMGLAS]
+Name = Comglas
+Types = PSYCHIC, DARK
+BaseStats = 86,86,86,86,86,86
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 165
+EVs = HP,3
+CatchRate = 75
+Happiness = 70
+Abilities = SYNCHRONIZE,EARLYBIRD
+HiddenAbilities = MAGICBOUNCE
+#-------------------------------
+[MANAR]
+Name = Manar
+Types = ELECTRIC
+BaseStats = 43,63,33,63,53,53
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 56
+EVs = ATTACK,1
+CatchRate = 235
+Happiness = 70
+Abilities = STATIC
+HiddenAbilities = PLUS
+#-------------------------------
+[PERCAJ]
+Name = Percaj
+Types = ELECTRIC, GROUND
+BaseStats = 53,93,53,83,73,73
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 128
+EVs = ATTACK,1,SPEED,1
+CatchRate = 120
+Happiness = 70
+Abilities = STATIC
+HiddenAbilities = PLUS
+#-------------------------------
+[FOROUVRIE]
+Name = Forouvrie
+Types = ELECTRIC, GROUND
+BaseStats = 73,123,63,103,103,83
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 230
+EVs = ATTACK,1,SPEED,1,SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = STATIC
+HiddenAbilities = PLUS
+#-------------------------------
+[MILTAP]
+Name = Miltap
+Types = BUG, GRASS
+BaseStats = 52,89,67,89,59,59
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = ATTACK,1,SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = SWARM
+HiddenAbilities = HUSTLE
+#-------------------------------
+[OCTOTAP]
+Name = Octotap
+Types = BUG, STEEL
+BaseStats = 50,50,55,66,70,65
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 78
+EVs = SPECIAL_ATTACK,1
+CatchRate = 75
+Happiness = 70
+Abilities = SPEEDBOOST,COMPOUNDEYES
+HiddenAbilities = FRISK
+#-------------------------------
+[HOLOTAP]
+Name = Holotap
+Types = BUG, STEEL
+BaseStats = 70,85,70,80,105,90
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 180
+EVs = SPECIAL_ATTACK,2,SPECIAL_DEFENSE,1
+CatchRate = 30
+Happiness = 70
+Abilities = SPEEDBOOST,TINTEDLENS
+HiddenAbilities = FRISK
+#-------------------------------
+[AGLUANT]
+Name = Agluant
+Types = GHOST, POISON
+BaseStats = 72,42,62,32,62,62
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 42
+EVs = HP,1
+CatchRate = 255
+Happiness = 70
+Abilities = DAMP,WATERABSORB
+HiddenAbilities = UNAWARE
+#-------------------------------
+[PYRACAGE]
+Name = Pyracage
+Types = DARK, STEEL
+BaseStats = 33,86,33,64,51,45
+GenderRatio = Female25Percent
+GrowthRate = Medium
+BaseExp = 70
+EVs = ATTACK,1
+CatchRate = 100
+Happiness = 35
+Abilities = HUSTLE
+HiddenAbilities = GUTS
+#-------------------------------
+[POLAKE]
+Name = Polake
+Types = FIGHTING, NORMAL
+BaseStats = 52,82,52,66,32,62
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 66
+EVs = ATTACK,1
+CatchRate = 120
+Happiness = 70
+Abilities = PICKUP,QUICKFEET
+HiddenAbilities = HONEYGATHER
+#-------------------------------
+[FOUINOURS]
+Name = Fouinours
+Types = FIGHTING, NORMAL
+BaseStats = 102,132,92,66,37,102
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 175
+EVs = ATTACK,3
+CatchRate = 60
+Happiness = 70
+Abilities = GUTS,QUICKFEET
+HiddenAbilities = UNNERVE
+#-------------------------------
+[KANGASTIC]
+Name = Kangastic
+Types = NORMAL
+BaseStats = 55,65,45,50,45,50
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 55
+EVs = ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = KEENEYE,SCRAPPY
+HiddenAbilities = SKILLLINK
+#-------------------------------
+[KANGORIGENE]
+Name = Kangorigene
+Types = NORMAL
+BaseStats = 75,90,60,60,60,65
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 130
+EVs = ATTACK,2
+CatchRate = 120
+Happiness = 70
+Abilities = KEENEYE,SCRAPPY
+HiddenAbilities = SKILLLINK
+#-------------------------------
+[LANCGOUROU]
+Name = Lancgourou
+Types = NORMAL
+BaseStats = 95,130,75,70,75,80
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 225
+EVs = ATTACK,3
+CatchRate = 45
+Happiness = 70
+Abilities = KEENEYE,SCRAPPY
+HiddenAbilities = SKILLLINK
+#-------------------------------
+[CROMAGLA]
+Name = Cromagla
+Types = ICE
+BaseStats = 31,61,81,31,81,61
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 50
+EVs = DEFENSE,1
+CatchRate = 225
+Happiness = 70
+Abilities = OBLIVIOUS,SNOWCLOAK
+HiddenAbilities = THICKFAT
+#-------------------------------
+[MEGAMAGLA]
+Name = Megamagla
+Types = ICE
+BaseStats = 51,111,81,51,81,111
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 158
+EVs = HP,1,ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 75
+Happiness = 70
+Abilities = OBLIVIOUS,SNOWCLOAK
+HiddenAbilities = THICKFAT
+#-------------------------------
+[GIVRERABLE]
+Name = Givrerable
+Types = ICE, ELECTRIC
+BaseStats = 55,85,46,109,107,72
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 168
+EVs = SPEED,2,SPECIAL_ATTACK,1
+CatchRate = 75
+Happiness = 70
+Abilities = SUCTIONCUPS,SNIPER
+HiddenAbilities = MOODY
+#-------------------------------
+[PICTIK]
+Name = Pictik
+Types = BUG, GHOST
+BaseStats = 28,78,48,58,46,54
+GenderRatio = FemaleOneEighth
+GrowthRate = Erratic
+BaseExp = 71
+EVs = ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = BATTLEARMOR
+HiddenAbilities = SWIFTSWIM
+#-------------------------------
+[FAUCHTIK]
+Name = Fauchtik
+Types = BUG, GHOST
+BaseStats = 58,118,68,98,86,84
+GenderRatio = FemaleOneEighth
+GrowthRate = Erratic
+BaseExp = 173
+EVs = ATTACK,3
+CatchRate = 45
+Happiness = 70
+Abilities = BATTLEARMOR
+HiddenAbilities = SWIFTSWIM
+#-------------------------------
+[CIRAMPANT]
+Name = Cirampant
+Types = GHOST
+BaseStats = 40,34,69,32,69,89
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 55
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 190
+Happiness = 70
+Abilities = FLASHFIRE,FLAMEBODY
+HiddenAbilities = INFILTRATOR
+#-------------------------------
+[GELORMI]
+Name = Gelormi
+Types = ICE
+BaseStats = 38,38,68,48,68,68
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 67
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 120
+Happiness = 70
+Abilities = TRUANT
+HiddenAbilities = ICEBODY
+#-------------------------------
+[JIVRAI]
+Name = Jivrai
+Types = ICE, FIRE
+BaseStats = 58,78,88,60,98,98
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 173
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,2
+CatchRate = 60
+Happiness = 70
+Abilities = SNOWWARNING
+HiddenAbilities = SOUNDPROOF
+#-------------------------------
+[INSY]
+Name = Insy
+Types = BUG, PSYCHIC
+BaseStats = 56,71,33,71,62,43
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 54
+EVs = SPEED,1
+CatchRate = 200
+Happiness = 70
+Abilities = SWIFTSWIM
+HiddenAbilities = RAINDISH
+#-------------------------------
+[MILZEN]
+Name = Milzen
+Types = BUG, PSYCHIC
+BaseStats = 76,121,48,121,82,68
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 159
+EVs = ATTACK,1,SPEED,2
+CatchRate = 75
+Happiness = 70
+Abilities = INTIMIDATE
+HiddenAbilities = UNNERVE
+#-------------------------------
+[FEUILLON]
+Name = Feuillon
+Types = ELECTRIC, BUG
+BaseStats = 38,48,38,86,78,52
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 59
+EVs = SPEED,1
+CatchRate = 120
+Happiness = 70
+Abilities = STATIC,LIGHTNINGROD
+HiddenAbilities = MINUS
+#-------------------------------
+[FORMIN]
+Name = Formin
+Types = DARK
+BaseStats = 38,72,52,58,42,52
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 44
+EVs = ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = CHLOROPHYLL,EARLYBIRD
+HiddenAbilities = PICKPOCKET
+#-------------------------------
+[SILHOM]
+Name = Silhom
+Types = DARK
+BaseStats = 48,82,82,68,82,62
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 119
+EVs = ATTACK,1,DEFENSE,1
+CatchRate = 120
+Happiness = 70
+Abilities = CHLOROPHYLL,EARLYBIRD
+HiddenAbilities = PICKPOCKET
+#-------------------------------
+[GABAROMBR]
+Name = Gabarombr
+Types = DARK
+BaseStats = 58,122,122,68,82,92
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 216
+EVs = ATTACK,1,DEFENSE,2
+CatchRate = 45
+Happiness = 70
+Abilities = CHLOROPHYLL,EARLYBIRD
+HiddenAbilities = PICKPOCKET
+#-------------------------------
+[PANLEON]
+Name = Panleon
+Types = DARK
+BaseStats = 50,50,40,60,60,50
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 56
+EVs = SPECIAL_ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = RUNAWAY,QUICKFEET
+HiddenAbilities = RATTLED
+#-------------------------------
+[AUBERANCE]
+Name = Auberance
+Types = GRASS
+BaseStats = 79,110,89,82,67,67
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 159
+EVs = ATTACK,2
+CatchRate = 200
+Happiness = 70
+Abilities = LEVITATE
+#-------------------------------
+[BARBAGNEAU]
+Name = Barbagneau
+Types = FAIRY
+BaseStats = 57,39,60,40,58,73
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 68
+EVs = SPECIAL_DEFENSE,1
+CatchRate = 200
+Happiness = 70
+Abilities = SWEETVEIL
+HiddenAbilities = UNBURDEN
+#-------------------------------
+[SUCROVIN]
+Name = Sucrovin
+Types = FAIRY, GHOST
+BaseStats = 77,54,70,59,85,82
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 168
+EVs = SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 140
+Happiness = 70
+Abilities = SWEETVEIL
+HiddenAbilities = UNBURDEN
+#-------------------------------
+[GOURMANTAZ]
+Name = Gourmantaz
+Types = FAIRY, DARK
+BaseStats = 97,76,81,61,112,100
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 162
+EVs = HP,1,SPECIAL_ATTACK,1,SPECIAL_DEFENSE,1
+CatchRate = 140
+Happiness = 70
+Abilities = HEALER
+HiddenAbilities = AROMAVEIL
+#-------------------------------
+[SCORGON]
+Name = Scorgon
+Types = BUG, DRAGON
+BaseStats = 53,87,49,61,39,49
+GenderRatio = Female50Percent
+GrowthRate = Parabolic
+BaseExp = 58
+EVs = ATTACK,1
+CatchRate = 255
+Happiness = 70
+Abilities = HYPERCUTTER,ARENATRAP
+HiddenAbilities = SHEERFORCE
+#-------------------------------
+[IRODONNA]
+Name = Irodonna
+Types = STEEL, GHOST
+BaseStats = 110,120,100,65,65,70
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 157
+EVs = ATTACK,3
+CatchRate = 90
+Happiness = 70
+Abilities = NOGUARD
+#-------------------------------
+[AQUALI]
+Name = Aquali
+Types = WATER
+BaseStats = 130,65,60,65,110,95
+GenderRatio = FemaleOneEighth
+GrowthRate = Medium
+BaseExp = 184
+EVs = HP,2,SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 35
+Abilities = WATERABSORB
+HiddenAbilities = ICEBODY
+#-------------------------------
+[NUDOX]
+Name = Nudox
+Types = FIRE, WATER
+BaseStats = 95,85,80,115,105,90
+GenderRatio = Female25Percent
+GrowthRate = Medium
+BaseExp = 173
+EVs = SPEED,2,SPECIAL_ATTACK,1
+CatchRate = 45
+Happiness = 70
+Abilities = FLAMEBODY
+HiddenAbilities = VITALSPIRIT

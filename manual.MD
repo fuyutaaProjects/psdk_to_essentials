@@ -17,4 +17,6 @@ fs_renamer.py will lowercase and add fs_ before your fakemon's name.
 
 3. Copy the 'pokemon' folder from PSDK located at [PROJECT NAME]\Data\Studio\ to the root of this folder (the same level as main.py)
 
-4. Copy pokemon.txt from Essentials located at 
+4. Copy pokemon.txt from Essentials 
+
+5. Copy the dex folder from PSDK to root of this repertory

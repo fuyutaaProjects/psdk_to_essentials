@@ -26,3 +26,5 @@ Longgg editing but you'll get your pokedex converted after that.
 Because the fakemon json file name doesn't correspond the new pokemon's the name, but the original pokemon name.
 
 See manual.md to see how you can use this script.
+
+genderless pokemon not supported
