@@ -1,6 +1,8 @@
+# I made this for practicing python and helping someone using Pokémon Essentials. Please use PSDK, it's way better.
+
+
 # studio_to_pokemon_txt
  Convert Pokemon Studio Pokedex to PKM Essentials Pokedex "pokemon.txt" file.
- I made this for practicing python and helping someone using Pokémon Essentials. Please use PSDK, it's way better.
 
 ## What is this ?
 It's a tool made to speed up your fangame developpement process.
